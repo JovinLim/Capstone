@@ -96,7 +96,7 @@ namespace TBO_Plugin
                     m_xyz.Add(y_id);
                     m_id.Add(x_id);
                 }
-
+                TaskDialog.Show("Define Boundary", "Please select a floor");
                 //Finding index of point in matrix closest to ingress
                 int min_dist_xid = 0;
                 int min_dist_yid = 0;
@@ -360,7 +360,7 @@ namespace TBO_Plugin
             try
             {
                 string fileName = @"C:\Users\jovin\AppData\Local\Programs\Python\Python38\python.exe"; //Change the file directory to python.exe on your computer
-                string python = @"C:\TBO_Plugin\ClassLibrary1\python\test2.py"; //Change the file directory to the python file which is in the zip folder downloaded
+                string python = @"C:\TBO_Plugin\Capstone\ClassLibrary1\python\test2.py"; //Change the file directory to the python file which is in the zip folder downloaded
 
                 // Create process info
                 Process psi = new Process();

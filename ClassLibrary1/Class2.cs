@@ -3,10 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Diagnostics;
-using Autodesk.Revit.ApplicationServices;
-using Autodesk.Revit.Attributes;
-using Autodesk.Revit.DB;
+
 using Autodesk.Revit.UI;
 using Autodesk.Revit.UI.Selection;
 using Autodesk.Revit.DB.Architecture;
@@ -14,7 +11,7 @@ namespace TBO_Plugin
 {
     [Transaction(TransactionMode.Manual)]
     [Regeneration(RegenerationOption.Manual)]
-    public class LayoutGeneration : IExternalCommand
+    public class Test : IExternalCommand
     {
         public Result Execute(ExternalCommandData commandData, ref string message, ElementSet elements)
         {
@@ -96,7 +93,7 @@ namespace TBO_Plugin
                     m_xyz.Add(y_id);
                     m_id.Add(x_id);
                 }
-                
+
                 //Finding index of point in matrix closest to ingress
                 int min_dist_xid = 0;
                 int min_dist_yid = 0;
@@ -125,26 +122,26 @@ namespace TBO_Plugin
                 List<string> splitlist = new List<string>();
                 try
                 {
-                    string[] split = output.Split(new string[] {Environment.NewLine}, StringSplitOptions.RemoveEmptyEntries);
+                    string[] split = output.Split(new string[] { Environment.NewLine }, StringSplitOptions.RemoveEmptyEntries);
                     foreach (string line in split)
                     {
                         splitlist.Add(line);
                         //TaskDialog.Show("Line", line);
                     }
                 }
-                catch (Exception ex) 
+                catch (Exception ex)
                 {
                     message = ex.Message;
                     TaskDialog.Show("failed", message);
                     return Result.Failed;
                 }
-                
+
                 //Converting python output string to list<list<list<int>>>
                 dynamic rect_index = Str_To_Index(splitlist[0]);
 
                 //Creating list of lines to reference for wall creation 
                 dynamic wall_lines = MakeWallLines(rect_index, m_xyz, doc, level_id, trans);
-                
+
                 //Starting transaction
                 trans.Start("Wall Creation");
 
@@ -163,7 +160,7 @@ namespace TBO_Plugin
                 //Getting plan topology and set of circuit plans (enclosed spaces) for level 1
                 PlanTopology lv1topo = doc.get_PlanTopology(lv1);
                 PlanCircuitSet CircuitSet = lv1topo.Circuits;
-                
+
 
                 //Creating room tags for each enclosed space
                 //Starting transaction
@@ -459,7 +456,7 @@ namespace TBO_Plugin
                         else
                         {
                             Line l = Line.CreateBound(m_xyz[input[clust][rect][0]][input[clust][rect][1]], m_xyz[input[clust][0][0]][input[clust][0][1]]); //Creating bounds from index corresponding to index of points in m_xyz
-                            l_list.Add(l);;
+                            l_list.Add(l); ;
                         }
                     }
                     catch (Exception ex)
