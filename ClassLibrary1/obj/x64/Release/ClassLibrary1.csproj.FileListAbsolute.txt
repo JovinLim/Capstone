@@ -1,0 +1,6 @@
+C:\TBO_Plugin\ClassLibrary1\bin\x64\Release\ClassLibrary1.dll
+C:\TBO_Plugin\ClassLibrary1\bin\x64\Release\ClassLibrary1.pdb
+C:\TBO_Plugin\ClassLibrary1\obj\x64\Release\ClassLibrary1.csproj.AssemblyReference.cache
+C:\TBO_Plugin\ClassLibrary1\obj\x64\Release\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\TBO_Plugin\ClassLibrary1\obj\x64\Release\ClassLibrary1.dll
+C:\TBO_Plugin\ClassLibrary1\obj\x64\Release\ClassLibrary1.pdb
