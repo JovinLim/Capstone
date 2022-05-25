@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RevitAddIns>
- <AddIn Type="Command">
+ <AddIn Type="Application">
        <Name>tbo_plugin</Name>
-       <FullClassName>TBO_Plugin.LayoutGeneration</FullClassName>
-       <Text>TBO_LayoutGeneration</Text>
+       <FullClassName>Ribbon.App</FullClassName>
+       <Text>TBO_Layout</Text>
        <Description>Places the Group at Particular Point</Description>
        <VisibilityMode>AlwaysVisible</VisibilityMode>
-       <Assembly>C:\TBO_Plugin\ClassLibrary1\bin\x64\Debug\ClassLibrary1.dll</Assembly>
+       <Assembly>C:\Users\sharm\OneDrive - Singapore University of Technology and Design\Term 8\01.401 - Capstone 2\Capstone\ClassLibrary1\bin\x64\Debug\ClassLibrary1.dll</Assembly>
        <AddInId>502fe383-2648-4e98-adf8-5e6047f9dc34</AddInId>
     <VendorId>ADSK</VendorId>
     <VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription>

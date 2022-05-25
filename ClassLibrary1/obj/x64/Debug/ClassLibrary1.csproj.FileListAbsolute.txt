@@ -44,3 +44,30 @@ C:\TBO_Plugin\Capstone\ClassLibrary1\bin\x64\Debug\Microsoft.Scripting.xml
 C:\TBO_Plugin\Capstone\ClassLibrary1\bin\x64\Debug\Microsoft.Scripting.Metadata.xml
 C:\TBO_Plugin\Capstone\ClassLibrary1\bin\x64\Debug\Python.Runtime.pdb
 C:\TBO_Plugin\Capstone\ClassLibrary1\obj\x64\Debug\ClassLibrary1.csproj.CopyComplete
+C:\Users\sharm\OneDrive - Singapore University of Technology and Design\Term 8\01.401 - Capstone 2\Capstone\ClassLibrary1\obj\x64\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\sharm\OneDrive - Singapore University of Technology and Design\Term 8\01.401 - Capstone 2\Capstone\ClassLibrary1\obj\x64\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\sharm\OneDrive - Singapore University of Technology and Design\Term 8\01.401 - Capstone 2\Capstone\ClassLibrary1\obj\x64\Debug\ClassLibrary1.dll
+C:\Users\sharm\OneDrive - Singapore University of Technology and Design\Term 8\01.401 - Capstone 2\Capstone\ClassLibrary1\obj\x64\Debug\ClassLibrary1.pdb
+C:\Users\sharm\OneDrive - Singapore University of Technology and Design\Term 8\01.401 - Capstone 2\Capstone\ClassLibrary1\bin\x64\Debug\ClassLibrary1.dll
+C:\Users\sharm\OneDrive - Singapore University of Technology and Design\Term 8\01.401 - Capstone 2\Capstone\ClassLibrary1\bin\x64\Debug\ClassLibrary1.pdb
+C:\Users\sharm\OneDrive - Singapore University of Technology and Design\Term 8\01.401 - Capstone 2\Capstone\ClassLibrary1\bin\x64\Debug\IronPython.dll
+C:\Users\sharm\OneDrive - Singapore University of Technology and Design\Term 8\01.401 - Capstone 2\Capstone\ClassLibrary1\bin\x64\Debug\IronPython.Modules.dll
+C:\Users\sharm\OneDrive - Singapore University of Technology and Design\Term 8\01.401 - Capstone 2\Capstone\ClassLibrary1\bin\x64\Debug\IronPython.SQLite.dll
+C:\Users\sharm\OneDrive - Singapore University of Technology and Design\Term 8\01.401 - Capstone 2\Capstone\ClassLibrary1\bin\x64\Debug\IronPython.Wpf.dll
+C:\Users\sharm\OneDrive - Singapore University of Technology and Design\Term 8\01.401 - Capstone 2\Capstone\ClassLibrary1\bin\x64\Debug\Microsoft.Dynamic.dll
+C:\Users\sharm\OneDrive - Singapore University of Technology and Design\Term 8\01.401 - Capstone 2\Capstone\ClassLibrary1\bin\x64\Debug\Microsoft.Scripting.dll
+C:\Users\sharm\OneDrive - Singapore University of Technology and Design\Term 8\01.401 - Capstone 2\Capstone\ClassLibrary1\bin\x64\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\sharm\OneDrive - Singapore University of Technology and Design\Term 8\01.401 - Capstone 2\Capstone\ClassLibrary1\bin\x64\Debug\IronPython.xml
+C:\Users\sharm\OneDrive - Singapore University of Technology and Design\Term 8\01.401 - Capstone 2\Capstone\ClassLibrary1\bin\x64\Debug\IronPython.Modules.xml
+C:\Users\sharm\OneDrive - Singapore University of Technology and Design\Term 8\01.401 - Capstone 2\Capstone\ClassLibrary1\bin\x64\Debug\IronPython.SQLite.xml
+C:\Users\sharm\OneDrive - Singapore University of Technology and Design\Term 8\01.401 - Capstone 2\Capstone\ClassLibrary1\bin\x64\Debug\IronPython.Wpf.xml
+C:\Users\sharm\OneDrive - Singapore University of Technology and Design\Term 8\01.401 - Capstone 2\Capstone\ClassLibrary1\bin\x64\Debug\Microsoft.Dynamic.xml
+C:\Users\sharm\OneDrive - Singapore University of Technology and Design\Term 8\01.401 - Capstone 2\Capstone\ClassLibrary1\bin\x64\Debug\Microsoft.Scripting.xml
+C:\Users\sharm\OneDrive - Singapore University of Technology and Design\Term 8\01.401 - Capstone 2\Capstone\ClassLibrary1\bin\x64\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\sharm\OneDrive - Singapore University of Technology and Design\Term 8\01.401 - Capstone 2\Capstone\ClassLibrary1\obj\x64\Debug\ClassLibrary1.csproj.CopyComplete
+C:\Users\sharm\OneDrive - Singapore University of Technology and Design\Term 8\01.401 - Capstone 2\Capstone\ClassLibrary1\obj\x64\Debug\Interop.EnvDTE.dll
+C:\Users\sharm\OneDrive - Singapore University of Technology and Design\Term 8\01.401 - Capstone 2\Capstone\ClassLibrary1\obj\x64\Debug\Interop.VSLangProj.dll
+C:\Users\sharm\OneDrive - Singapore University of Technology and Design\Term 8\01.401 - Capstone 2\Capstone\ClassLibrary1\obj\x64\Debug\Interop.VSLangProj2.dll
+C:\Users\sharm\OneDrive - Singapore University of Technology and Design\Term 8\01.401 - Capstone 2\Capstone\ClassLibrary1\obj\x64\Debug\ClassLibrary1.csproj.ResolveComReference.cache
+C:\Users\sharm\OneDrive - Singapore University of Technology and Design\Term 8\01.401 - Capstone 2\Capstone\ClassLibrary1\obj\x64\Debug\TBO_Plugin.param.resources
+C:\Users\sharm\OneDrive - Singapore University of Technology and Design\Term 8\01.401 - Capstone 2\Capstone\ClassLibrary1\obj\x64\Debug\ClassLibrary1.csproj.GenerateResource.cache

@@ -18,7 +18,7 @@ namespace TBO_Plugin
     {
         public Result Execute(ExternalCommandData commandData, ref string message, ElementSet elements)
         {
-            //Get application and documnet objects
+            //Get application and document objects
             UIApplication uiapp = commandData.Application;
             Document doc = uiapp.ActiveUIDocument.Document;
             View active = doc.ActiveView;
